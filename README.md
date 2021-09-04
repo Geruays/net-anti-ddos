@@ -4,4 +4,4 @@
  `Download Anti DDoS on Realese`
  
  Download - Unzip!
-[Download](http://github.com)
+[Download](https://github.com/Geruays/net-anti-ddos/releases/tag/1.0)
