@@ -5,6 +5,7 @@
  
  Download - Unzip!
 [Download](https://github.com/Geruays/net-anti-ddos/releases/tag/1.0)
-<!-- hitwebcounter Code START -->
-<a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=7863169&style=0001&nbdigits=5&type=page&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>     
+
+# yang gw butuhin
+
+![alt text](https://cdn.bncloudfl.com/bn/13e/11f/87c/13e11f87cdbfe9e967f844dfcdfd0b9cc922d435.png)
